@@ -1,4 +1,4 @@
-// James Clevenger 
+// James C 
 // Source Code Management 
 // CIS 1202
 // 03/14/2023
@@ -10,7 +10,7 @@ using namespace std;
 int main()
 {
 
-	cout << "Hello World" << endl;
+	cout << "Hello Universe" << endl;
 	return 0;
 
 }
